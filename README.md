@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=DONG%20WOO%20SHIN!&fontColor=00000)
+![header](https://capsule-render.vercel.app/api?type=waving&text=DONG%20WOO%20SHIN&fontColor=00000)
 
 
 # 🌳 소개
@@ -14,7 +14,7 @@
 # 📱 SNS
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  Heaven.__ne
+  @s_hindw
 </p>
 
 <p>
