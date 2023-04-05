@@ -37,4 +37,4 @@
 </p>
 관심분야
 
-🌸 Image classification    🌸 Vision    🌸 ML/DL    🌸 NLP
+🌸 Image classification    🌸 Vision    🌸 ML/DL    🌸 Object Detection
