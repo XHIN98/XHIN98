@@ -14,12 +14,12 @@
 # 📱 SNS
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  @s_hindw
+  @xoodongxoo
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-  sindoungwoo@naver.com
+  doungwoosin@naver.com
 </p>
 
 <p>
